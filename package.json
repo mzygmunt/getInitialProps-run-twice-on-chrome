@@ -1,0 +1,21 @@
+{
+    "name": "test",
+    "description": "test",
+    "version": "0.0.0",
+    "author": "test",
+    "license": "UNLICENSED",
+    "scripts": {
+        "dev": "next",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "next": "9.1.1",
+        "react": "16.10.2",
+        "react-dom": "16.10.2"
+    },
+    "devDependencies": {
+        "@types/react-dom": "16.9.1",
+        "@types/react": "16.9.5"
+    }
+}
